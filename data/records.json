@@ -3,8 +3,7 @@
         "age": 100,
         "name": "Alison Burger",
         "readDelay": 1000,
-        "writeDelay": 10000,
-        "Name": "Updated Name"
+        "writeDelay": 10000
     },
     "2": {
         "age": 31,
